@@ -1,6 +1,6 @@
 # bookbot
 
-Simple python project tha read text files and return the following:
+Simple python project that read text files and return the following:
 - words count
 - alphabet character frequency
 
